@@ -44,11 +44,19 @@
 					"height": 173,
 					"picture": "Images/4d-logo.svg",
 					"pictureFormat": "scaled"
+				},
+				"text.logo": {
+					"type": "text",
+					"text": "logo",
+					"top": 213,
+					"left": 28,
+					"width": 108,
+					"height": 46
 				}
 			}
 		}
 	],
-	"geometryStamp": 15,
+	"geometryStamp": 19,
 	"editor": {
 		"activeView": "View 1",
 		"defaultView": "View 1",
