@@ -1,15 +1,17 @@
-[repository-name]: 4d-topic-github
-[account-name]: miyako
+<!--
+  v20: E23089
+  v19: 5682DF
+  v18: EB8E5F
+  v17: 3E8B93
+  v16: 8331AE
+  v15: D74635
+-->
 
-[v20-rgb]: E23089
-[v19-rgb]: 5682DF
-[v18-rgb]: EB8E5F
-[v17-rgb]: 3E8B93
-[v16-rgb]: 8331AE
-[v15-rgb]: D74635
+[version-url]: https://img.shields.io/badge/version-20%2B-E23089
+[license-url]: https://img.shields.io/github/license/miyako/4d-topic-github
 
-![version](https://img.shields.io/badge/version-20%2B-E23089)
-[![license](https://img.shields.io/github/license/[account-name]/[repository-name])](LICENSE)
+![version][version-url]
+![license][license-url]
 
 # 4d-topic-github
 GitHubでプロジェクトを管理する
