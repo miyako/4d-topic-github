@@ -10,6 +10,7 @@
 
 ![version](https://img.shields.io/badge/version-20%2B-E23089)
 [![license](https://img.shields.io/github/license/[account-name]/[repository-name])](LICENSE)
+![downloads](https://img.shields.io/github/downloads/[account-name]/[repository-name]/total)
 
 # 4d-topic-github
 GitHubでプロジェクトを管理する
