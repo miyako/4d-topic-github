@@ -9,20 +9,51 @@
 	"windowMinHeight": 0,
 	"windowMaxWidth": 32767,
 	"windowMaxHeight": 32767,
-
 	"rightMargin": 20,
 	"bottomMargin": 20,
-
-	"events": ["onLoad","onPageChange","onValidate","onClick","onDoubleClick","onOutsideCall","onBeginDragOver","onDragOver","onDrop","onAfterKeystroke","onMenuSelect","onPluginArea","onAfterEdit","onTimer","onBoundVariableChange"],
-
+	"events": [
+		"onLoad",
+		"onPageChange",
+		"onValidate",
+		"onClick",
+		"onDoubleClick",
+		"onOutsideCall",
+		"onBeginDragOver",
+		"onDragOver",
+		"onDrop",
+		"onAfterKeystroke",
+		"onMenuSelect",
+		"onPluginArea",
+		"onAfterEdit",
+		"onTimer",
+		"onBoundVariableChange"
+	],
 	"windowTitle": "window title",
 	"destination": "detailScreen",
-	"pages" : [
-	{
-		"objects":{}
-	},
-	{
-		"objects":{}
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"Static Picture1": {
+					"type": "picture",
+					"top": 20,
+					"left": 20,
+					"width": 123,
+					"height": 173,
+					"picture": "Images/4d-logo.svg",
+					"pictureFormat": "scaled"
+				}
+			}
+		}
+	],
+	"geometryStamp": 15,
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
 	}
-	]
 }
